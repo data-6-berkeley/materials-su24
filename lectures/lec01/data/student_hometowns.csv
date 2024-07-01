@@ -1,34 +1,21 @@
-City,State,Latitude,Longitude
-Santa Rosa,CA,38.4404,-122.7141
-Lake Zurich,IL,42.1970,-88.0934
-Orange County,CA,33.7175,-117.8311
-Cupterino,CA,37.3230,-122.0322
-East Los Angeles,CA,34.0224,-118.1670
-Oakland,CA,37.8044,-122.2712
-Highland Park,IL,42.1817,-87.8003
-Raleigh,NC,35.7796,-78.6382
-Fresno,CA,36.7378,-119.7871
-Irvine,CA,33.6846,-117.8265
-Bloomington,IN,39.1653,-86.5264
-New Orleans,LA,29.9511,-90.0715
-Hercules,CA,38.0171,-122.2886
-Seal Beach,CA,33.7414,-118.1048
-Corona,CA,33.8753,-117.5664
-Sacramento,CA,38.5816,-121.4944
-Falls Church,VA,38.8823,-77.1711
-Katy,TX,29.7858,-95.8245
-Castro Valley,CA,37.6955,-122.0739
-San Jose,CA,37.3387,-121.8853
-Red Bluff,CA,40.1785,-122.2358
-San Pablo,CA,37.9621,-122.3455
-Downey,CA,33.9401,-118.1332
-San Martin,CA,37.0849,-121.6102
-Earlimart,CA,35.8841,-119.2723
-Palm Springs,CA,33.8303,-116.5453
-Hercules,CA,38.0171,-122.2886
-Lansing,MI,42.7325,-84.5555
-Mobile,AL,30.6954,-88.0399
-Charlotte,NC,35.2271,-80.8431
-Dover,DE,39.1582,-75.5244
-Kansas City,MO,39.0997,-94.5786
-Palmdale,CA,34.5794,-118.1165
+City,State,Latitude,Longitude,Favorite Color
+Fort Myers,FL,26.6406,-81.8723,purple
+San Diego,California,32.7157,-117.1611,blue
+N/A,Iraq,33.2231,43.6792,red
+West Sacramento,California,38.5805,-121.5302,turquoise
+Stockton,California,37.9577,-121.2908,purple
+San Jose,California,37.3382,-121.8863,pink
+Fair Oaks,CA,38.6446,-121.2722,forestgreen
+New York,NY,40.7128,-74.006,blue
+Riverside,CA,33.9533,-117.3962,blue
+San Jose,California,37.3382,-121.8863,green
+South Gate,CA,33.9547,-118.212,deepskyblue
+Los Angeles,CA,34.0522,-118.2437,gold
+East Palo Alto,CA,37.4688,-122.1411,crimson
+Caruthers,California,36.5449,-119.8362,yellow
+Palmdale,California,34.5794,-118.1165,mediumvioletred
+Atlanta,Georgia,33.7449031,-84.3885975,red
+San Jose,California,37.3382,-121.8863,navy
+Austin,Texas,30.2736175,-97.7376618,grey
+Bellamy,Alabama,32.4491141,-88.1334862,purple
+Los Angeles,CA,34.0522,-118.2437,green
